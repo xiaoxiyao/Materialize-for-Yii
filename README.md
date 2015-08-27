@@ -26,4 +26,4 @@ return array(
     //......
 )
 ```
-3. 目前可用的widgets有MdButon、MdSwitch、MdToast、MdActiveForm
+*目前可用的widgets有MdButon、MdSwitch、MdToast、MdActiveForm*
